@@ -30,11 +30,11 @@
 
 - **Policy Gradient**
   - 算法流程图：
-  ![Policy Gradient算法流程图](./pics/al01_policy_gradient.png)
+  ![Policy Gradient算法流程图](al01_policy_gradient.png)
 
 - **Actor-Critic (演员-评论家)**  
   - 算法流程图：
-  ![Actor-Critic算法流程图](./pics/al02_ac.png)
+  ![Actor-Critic算法流程图](./al02_ac.png)
 
 - **其他先进的RL算法**
   - 例如REINFORCE、Q Actor-Critic、A2C、A3C 等
